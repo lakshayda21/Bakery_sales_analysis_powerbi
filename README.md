@@ -10,6 +10,7 @@ An interactive Power BI dashboard developed to analyze bakery business performan
 - Understand customer spending, loyalty, and transaction behavior.
 - Identify opportunities to improve profitability and operational efficiency.
 
+
 ## Tools & Technologies
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
@@ -86,3 +87,19 @@ An interactive Power BI dashboard developed to analyze bakery business performan
 **Lakshay**
 
 GitHub: [lakshayda21](https://github.com/lakshayda21)
+## Dashboard Screenshots
+
+### 1. Sales Overview
+![Sales Overview](Sales_overview.png.png)
+
+### 2. Profit and Loss Analysis
+![Profit and Loss Analysis](Profit_loss_analysis.png.png)
+
+### 3. Waste and Inventory
+![Waste and Inventory](Waste_inventory.png.png)
+
+### 4. Customer Analysis
+![Customer Analysis](Customer_analysis.png.png)
+
+### 5. Product Category Performance
+![Product Category Performance](Product_performace.png.png)
